@@ -1,1 +1,4 @@
 # Car-Rental-Management-System
+
+The purpose of this project is to create a functional website for users to rent the car online for their required number of days. This online car rental system is fully functional and flexible. This online car rental helps in back office administration by streamlining and standardizing the procedure. It is eco-friendly as the monitoring of the vehicle activity and overall business become easy and includes the least of paper work. It increases the efficiency of the management at offering quality service to the customers. It provides custom feaurures development and support with the software. Online car booking software advantages are easy to use, provide Tranparency, Safe and Secure booking, Low cost travelling, Data Management, Affordability, Quality of life, User-Friendly listing facility, Discounting system, Comfortable and Compatible. 
+
